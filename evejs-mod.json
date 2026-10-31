@@ -1,0 +1,51 @@
+{
+  "author": {
+    "id": "au-mvt6rg210sr2",
+    "keyId": "a20ad81508c3",
+    "name": "GH301"
+  },
+  "category": "玩法",
+  "changelog": "首个正式版：船员召唤/解散、采矿（分矿/压缩/交付）、战斗、遥修传电、特殊装备、\n召唤仓库（订货/存入/取出/卖出/重购/对账/方案）、配装台（可搜索下拉/校验/DPS·EHP）、\n面板四页签、`!crewmine` 非 GM 用法、日志分级。",
+  "conflicts": [],
+  "delisted": false,
+  "description": "NFCrew · 船员编队：一批真角色、真舰船的虚拟船员听你指挥——召唤时点亮诱导力场、4 秒后跳进来，解散时诱导跳走；采矿（自动选矿/分矿/靠近/压缩后交进你的矿舱）、战斗（齐射结算/导弹/集火/追击）、后勤（遥修/传电）、特殊（EWAR/吸电/中和/指挥脉冲/立体炸弹/末日）。1.0.0 起含「召唤仓库」库存系统（订购 80% 卖价、存入/取出/卖出/重购/对账/方案）与配装台（可搜索下拉、CPU/PG/挂点/无人机/改装件校验、DPS·EHP 模拟）。面板 /crewmine ui（127.0.0.1:8741，每账号独立令牌）；非 GM 角色用 !crewmine <参数>。",
+  "displayName": "NFCrew · 船员编队",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/GH301/evejs-mod-evejs-nf-crew/releases/download/v1.0.5/evejs-nf-crew-1.0.5.zip"
+    }
+  ],
+  "evejsVersions": [
+    "0.12.9",
+    "261018.1",
+    "261028.1"
+  ],
+  "featured": false,
+  "highlights": [
+    "**召唤仓库**：仓库角色 + 账本；订货（80% 卖价）、存入 / 取出 / 卖出 / 重购、对账、召唤方案；",
+    "**配装台**：船体/槽位/弹药可搜索下拉，CPU/PG（全 V）、炮台位/发射器位、无人机带宽、改装件尺寸与同组校验，附 80% 报价与 `DPS · EHP` 近似。"
+  ],
+  "history": [],
+  "id": "evejs-nf-crew",
+  "publishedAt": "2026-10-31",
+  "readme": [
+    "> **这是什么**：召唤一批**真实角色 + 真实舰船**的\"船员\"，跟着你采矿、打仗、遥修。\n> 他们有自己的角色记录、自己的船、自己的货舱，进你的舰队、跟你跃迁，挖到的矿压缩后交给**你的**矿舱。",
+    "---"
+  ],
+  "repo": "https://github.com/GH301/evejs-mod-evejs-nf-crew",
+  "requiresRestart": true,
+  "sha256": "5361ed4b31cdd05cb793b8ab7f61d58a82d53fef9248e99536f55b148f59d950",
+  "sizeBytes": 407289,
+  "tags": [
+    "采矿",
+    "战斗",
+    "遥修",
+    "编队",
+    "多账号",
+    "面板",
+    "NPC"
+  ],
+  "version": "1.0.5"
+}
